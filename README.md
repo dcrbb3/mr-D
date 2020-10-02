@@ -1,1 +1,2 @@
-# mr-D
+# mr-D Hi all mr D I am builging a cnc just to see if I can and so far I have built the cnc and I am trying to set up the sofwere . Now I am at my limit, I have biught a blacbox contrler to fun my cnc and I cant xeem jo down load the controler to manuaky move the XYZ around to see if the motors are working.
+This is where I am up to .So if yhere ts any body out there to give me sone advice then I will be pleased thanks MR D
